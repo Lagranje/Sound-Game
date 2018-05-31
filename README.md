@@ -1,7 +1,5 @@
-# Sound Game which reacts on keys press
+# Sound Game 
 ![screenshot of the game](./doc/1screen.png)
-## Libraries that were used to develop:
-### Howler.js to implement sound effects
-### Paper.js to implement animations
+Using +Howler.js+ for sounds and +Paper.js+ for animation
 # Try it out 
 http://soundgame.zzz.com.ua/
